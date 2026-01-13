@@ -1,2 +1,2 @@
-# Minecraft-drawing
-Minecraft drawing
+# clicker game
+clicker game
